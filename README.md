@@ -34,4 +34,5 @@ time of the event.
 | [Scala](./Scala.scala)        | Mar 20, 2025 |
 | [Elixir.exs](./Elixir.exs)    | Mar 22, 2025 |
 | [Ruby](./Ruby.rb)             | May, 2025    |
+| [RISC-V](./RISC-V.asm)        | Aug 08, 2025 |
 | [Astro](./Astro.astro)        | Mar 15, 2026 |
